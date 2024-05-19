@@ -7,6 +7,9 @@ this is the final message
 this is the final final message
 helllo 123
 h3loo 123444
+<<<<<<< HEAD
 mr mewow
 mr dada
 mr nari
+=======
+>>>>>>> parent of 5bd7c02 (Revert "Revert "wwww"")
