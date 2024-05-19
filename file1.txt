@@ -9,6 +9,7 @@ helllo 123
 h3loo 123444
 mr mewow
 mr dada
+<<<<<<< HEAD
 mr nari
 mrjaljsdljsd
 manujamal boys
@@ -19,3 +20,6 @@ chainanan
 chinna thaananana
 moom mootyhy
 msmmyhyuu
+=======
+mr nari
+>>>>>>> parent of 983c987 (Revert "Revert "Revert "wwww""")
